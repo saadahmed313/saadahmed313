@@ -42,7 +42,6 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 </a>
 <a href="https://codesandbox.io/u/anuraghazra">
   <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Harlok)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **saadahmed313/saadahmed313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
