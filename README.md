@@ -21,7 +21,10 @@
 
 #### Data: 
 <img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">  
-<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pandas/pandas.png">  
+  <img title="Numpy" height="25" src="images/numpy.svg">
+  <img title="Pandas" height="25" src="images/pandas.svg">
+  <img title="Matplotlib" height="25" src="images/matplotlib.svg">
+  <img title="Seaborn" height="25" src="images/seaborn.svg">
 <br />
 
 #### Tools:
