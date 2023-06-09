@@ -36,7 +36,7 @@
 <img title="Problem Solving" height="25" src="images/problemSolving.png">
 <br/ >
 <hr>
-<p align="center" margin="100px">
- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=saadahmed313&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadahmed313&layout=compact&theme=buefy&hide_border=true" /></a> 
+<p align="center">
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=saadahmed313&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadahmed313&layout=compact&theme=buefy&bg_color=20232a&hide_border=true" /></a> 
   </p>
 
