@@ -1,7 +1,10 @@
 # Saad Abd El Ghaffar <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=saadahmed313/README.md" alt="Saad Abd El Ghaffar"> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&width=1000&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Saad+Abd+El+Ghaffar;%F0%9F%91%80+I%E2%80%99m+interested+in+Data+Science;%F0%9F%8C%B1+I've+learned+Python+on+SQL%2C+Pandas+%2C+Numpy%2Cand+ML;%F0%9F%92%9E%EF%B8%8F+I%E2%80%99m+looking+to+be+a+Computer+Engineer)](https://git.io/typing-svg)
-
+<p align="center"> <a href="https://www.linkedin.com/in/saad-ahmed-683b77219/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> <a href="mailto:lord.amen84@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a> <a href="http://wa.me//201124744853"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=23></a> <a href="https://www.facebook.com/halemogpa"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=23></a>
+<a href="https://t.me/HalemoGPA"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height=23></a>  <a href="https://codeforces.com/profile/SaadAhmed2002"><img src="https://img.shields.io/badge/codeforces-%234566B5.svg?&style=for-the-badge&logo=codeforces&logoColor=white" height=23></a></p>
+<hr/>
+#### Frameworks/
 #### Languages:
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
@@ -12,10 +15,7 @@
 <img align="left" alt="c" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
 <br/>  
 
-<p align="center"> <a href="https://www.linkedin.com/in/saad-ahmed-683b77219/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> <a href="mailto:lord.amen84@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a> <a href="http://wa.me//201124744853"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=23></a> <a href="https://www.facebook.com/halemogpa"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=23></a>
-<a href="https://t.me/HalemoGPA"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height=23></a>  <a href="https://codeforces.com/profile/SaadAhmed2002"><img src="https://img.shields.io/badge/codeforces-%234566B5.svg?&style=for-the-badge&logo=codeforces&logoColor=white" height=23></a></p>
-<hr/>
-#### Frameworks/Platforms:
+Platforms:
 <img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">  
 <img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
 <img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">  
